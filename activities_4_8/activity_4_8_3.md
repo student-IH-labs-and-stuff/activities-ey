@@ -4,4 +4,4 @@
 - tree map will display client balance by gender  
 - select balance first then gender to create the view 
 - add a basic filter for variation 
-- add an advanced filter for client age > 50 
+- add an advanced filter for client age > 80 
