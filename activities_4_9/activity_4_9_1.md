@@ -1,7 +1,7 @@
 # 4.09 Activity 1
 
 - continuing with the previous workbook using `files_for_activities/finalMergedFile.csv` in PowerBI
-- choosing visualisayion type : funnel - create funnel of process step and distinct count of client id 
+- choosing visualisation type : funnel - create funnel of process step and distinct count of client id 
 - replicate the same plot on the same page as you have seen in class
 - using the formatting menu, change the colour of each plot to differentiate them
 - using the general properties of the formatting menu, add a centre aligned title for each visualisation to clarify what each plot shows. 
