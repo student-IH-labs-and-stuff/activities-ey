@@ -9,7 +9,7 @@ For this activity continue with the PowerBI workbook from the previous two activ
 - connect to the same excel workbook again as before, Bookshop.xls, and select only the tab **Info** to create a new source for your model 
 - again, do not apply a transformation st this stage 
 - because both tables share the SeriesID they should now connect 
-- in order to connect into the full model you will need to transform the Info source, combining two Book ID fields together - name this field **BOOKID**
+- in order to connect into the full model you will need to transform the Info source, combining two Book ID fields together - named **BOOKID**
 - create the relationship between Info and Book based on this new column 
 - create a table in report view that validates the series pdf connects through the Info tab to the Book table and the rest of the model
 - as an example this could be a table listing Series Name and Count of Title 
