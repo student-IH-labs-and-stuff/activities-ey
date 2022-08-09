@@ -10,4 +10,5 @@ Or is there something else involved in popularity such as the marketing spend by
 3. Try creating said ratio as a new column on the Author table the syntax could look like: **ratio_reviews_checkouts = count(Ratings[ReviewID]) / sum(Checkouts[Checkouts])**
 4. Use this new column in the report - notice that the same value is repeated multiple times 
 5. Think about or research PowerBI methods to resolve this - there are others than the Merge queries shown in class - so that you can reach a point where you have an accurate ratio of reviews to checkouts against each author
-6. Update the report to demonstrate your solution working or note down your ideas to share with the class 
+6. Optional : work through the merge starting with books and authors, adding checkouts and reviews (the latter two queries will require expanding and agggregating)
+7. Update the report to demonstrate your solution working or note down your ideas to share with the class 
